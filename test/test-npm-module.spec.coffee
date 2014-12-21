@@ -11,4 +11,4 @@ chai.use require 'sinon-chai'
 describe 'test-npm-module', ->
   it 'works', ->
     actual = testNpmModule 'World5'
-    expect(actual).to.eql 'Hello World4'
+    expect(actual).to.eql 'Hello World5'
