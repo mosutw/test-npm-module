@@ -4,6 +4,3 @@ node_js:
 branches:
   only:
     - master
-notification:
-  email:
-    - luke1974@gmail.com
